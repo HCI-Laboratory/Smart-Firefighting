@@ -11,8 +11,9 @@ The wearable prototype consists of a protective jacket (PJ) and protective trous
 ## Dataset
 This study initiated a collaboration with firefighters from the Haishu District Fire Brigade from Ningbo City, Zhejiang Province, China, to obtain realistic fall events by firefighters, based on their experiences. Fourteen male firefighters (with one to three years of firefighting experience, ages between 21 and 24 years old, with heights between 1.7 and 1.88 m) voluntarily participated in the data collection. Six of them were career firefighters and the other eight were volunteer firefighters. 
 
-Six types of fall activities were collected, including a forward fall with the knees, a forward fall with hands, left and right sides of inclined falls, a backward fall, and a slow forward fall with a crouch. Three other activities, including crouching, sitting, and walking with a stoop, were also collected as fall-like activities. Each firefighter was requested to put on the developed PJ and PT and simulate falls and fall-like activities, based on their firefighting experience. The details of the falls and fall-like activities are illustrated below.   
+Six types of fall activities were collected, including a forward fall with the knees, a forward fall with hands, left and right sides of inclined falls, a backward fall, and a slow forward fall with a crouch. Three other activities, including crouching, sitting, and walking with a stoop, were also collected as fall-like activities. Each firefighter was requested to put on the developed PJ and PT and simulate falls and fall-like activities, based on their firefighting experience. The details of the falls and fall-like activities are illustrated below, including (a) walking to a mat before falling, (b) forward fall with the knees, (c) forward fall with the hands, (d) left side of an inclined fall, (e) right side of an inclined fall, (f) slow forward fall with a crouch first, (g) backward fall, (h) fall-like crouching, (i) fall-like sitting, and (j) fall-like walking with a stoop.
 ![](img/activity.png)
+
 The number of trials for each activity and total trials are summarized in the following table.
 
 |Code|Type|Activity|Trials|
@@ -27,8 +28,10 @@ The number of trials for each activity and total trials are summarized in the fo
 |FL2 | | walk with stoop | 56 |
 |FL3 | | sit | 42 |
 
+**See dataset structure [here](dataset/README.md)**
+
 ## Cite
-If you use this dataset in your own work, please cite our paper.
+If you use the dataset in your own work, please cite our paper.
 ```
   @Article{s21206770,
   AUTHOR = {Chai, Xiaoqing and Wu, Renjie and Pike, Matthew and Jin, Hangchao and Chung, Wan-Young and Lee, Boon-Giin},
