@@ -25,4 +25,4 @@ Particularly, for the Node 0-8, the corresponding positions are:
 | 8 | Right ankle |
 
 ### Manually labelling the falling period
-[label.csv](/fall_dataset/label.csv) represents the 5 phases of the fall by further separating the activity based on recorded videos, including before falling (0-T1), pre-impact (T1-T2), impacted (T2-T3), post-impacted (T3-T4), get up (T4-end). 
+[label.csv](label.csv) represents the 5 phases of the fall by further separating the activity based on recorded videos, including before falling (0-T1), pre-impact (T1-T2), impacted (T2-T3), post-impacted (T3-T4), get up (T4-end). 
