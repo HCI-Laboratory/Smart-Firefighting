@@ -28,7 +28,7 @@ The number of trials for each activity and total trials are summarized in the fo
 |FL2 | | walk with stoop | 56 |
 |FL3 | | sit | 42 |
 
-**See dataset structure [here](dataset/README.md)**
+**See dataset structure [here](fall_dataset/README.md)**
 
 ## Cite
 If you use the dataset in your own work, please cite our paper.
