@@ -7,7 +7,8 @@ For research purposes, we have collected the Specialized Firefighting Training A
 To avoid commercial use, if you want to access our dataset, you should fill the document and send it to us via e-mail. 
 
 ## Cite
-If you use the dataset in your own work, please cite our paper.
+If you use the dataset in your own work, please cite our paper. (**Will Update Soon**)
+
 ```
   @Article{,
 
