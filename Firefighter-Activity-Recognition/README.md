@@ -1,5 +1,7 @@
 # Firefighting Activity Recognition
 
+## Introduction
+
 We are the researchers from HCI Lab, from the University of Nottingham Ningbo China
 
 For research purposes, we have collected the Specialized Firefighting Training Associated Activities (SFTAA) dataset that contains 8 activities during firefighting SCBA endurance training performed by 18 firefighters. 
