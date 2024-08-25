@@ -6,7 +6,7 @@ We are the researchers from HCI Lab, from the University of Nottingham Ningbo Ch
 
 For research purposes, we have collected the Specialized Firefighting Training Associated Activities (SFTAA) dataset that contains 8 activities during firefighting SCBA endurance training performed by 18 firefighters. 
 
-The dataset structure can be found via this file(SFTAA-structure.md)
+The dataset structure can be found via this [file](SFTAA-structure.md).
 
 If you'd like to access our dataset, please send us your request via e-mail. (boon-giin.lee@nottingham.edu.cn)
 
