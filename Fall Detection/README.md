@@ -3,11 +3,8 @@
 ## Abstract
 During the past decade, falling has been one of the top three causes of death among firefighters in China. Even though there are many studies on fall-detection systems (FDSs), the majority use a single motion sensor. Furthermore, few existing studies have considered the impact sensor placement and positioning have on fall-detection performance; most are targeted toward fall detection of the elderly. This study proposed a smart wearable FDS for firefighter fall detection by integrating motion sensors into the firefighter's personal protective clothing on the chest, elbows, wrists, thighs, and ankles. The firefighter's fall activities are detected by the proposed multisensory recurrent neural network, and the performances of different combinations of inertial measurement units (IMUs) on different body parts were also investigated. The results highlighted the significance of the multi-IMU FDS. 
 
-## Implementation
-The wearable prototype consists of a protective jacket (PJ) and protective trousers (PT). The main components include nine sensor nodes and two processing units. BNO055 is utilized as the sensor node with a triaxial accelerometer, a triaxial gyroscope, and a triaxial magnetometer. Figure below presents the overall framework of the sensing data acquisition.  
-![](img/framework.png)
-
 **More Details of our works**: https://www.mdpi.com/1424-8220/21/20/6770
+
 ## Dataset
 This study initiated a collaboration with firefighters from the Haishu District Fire Brigade from Ningbo City, Zhejiang Province, China, to obtain realistic fall events by firefighters, based on their experiences. Fourteen male firefighters (with one to three years of firefighting experience, ages between 21 and 24 years old, with heights between 1.7 and 1.88 m) voluntarily participated in the data collection. Six of them were career firefighters and the other eight were volunteer firefighters. 
 
